@@ -1,0 +1,2 @@
+A file used as example to teach version control using GIT.
+
