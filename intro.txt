@@ -1,2 +1,4 @@
 A file used as example to teach version control using GIT.
-
+The k-means algorithm is sensitive to outliers because an object with an extremely large
+value may substantially distort the distribution of data. This effect is particularly exacer-
+bated due to the use of the square-error function (Equation (7.18)).
